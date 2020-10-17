@@ -18,6 +18,18 @@ After a moment, this should get you the ISO file.
 # Installing KODI
 
 ## On Ubuntu 18.04.5 LTS
+As per the [official HOW-TO for Linux:](https://kodi.wiki/view/HOW-TO:Install_Kodi_for_Linux#Installing_Kodi_on_Ubuntu-based_distributions)
+    
+    # software-properties-common provides an abstraction of the used apt repositories (you might already have this)
+    sudo apt-get install software-properties-common 
+    # The repository for kodi (xmbc is just a perviously used name for it)
+    sudo add-apt-repository ppa:team-xbmc/ppa
+    # Get the newest package data
+    sudo apt-get update
+    # Install kodi
+    sudo apt-get install kodi
+
+
 //TODO 
 
 ## On a Raspberry Pi
