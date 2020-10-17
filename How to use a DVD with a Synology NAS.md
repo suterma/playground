@@ -1,6 +1,8 @@
 # Watching movies: How to use a DVD with a Synology NAS
 [Synology has a bad reputation for it's Video Station](https://community.synology.com/enu/forum/17/post/93830). With this post I am going to explore how to play those .ISO files stored on my Synology on my Samsung TV. I will use:
 
+//TODO read: https://www.synology.com/en-global/knowledgebase/DSM/tutorial/Multimedia/What_should_I_know_about_DS_video_for_Samsung_Smart_TV
+
 - KODI, a free and open-sourced media center
 - A dedicated machine to run KODI on
 - //A video adapter
