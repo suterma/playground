@@ -1,5 +1,11 @@
 # Watching movies: How to use a DVD with a Synology NAS
-[Synology has a bad reputation for it's Video Station](https://community.synology.com/enu/forum/17/post/93830). With this post I am going to explore how to play those copyied .ISO files stored on my Synology on my Samsung TV.
+[Synology has a bad reputation for it's Video Station](https://community.synology.com/enu/forum/17/post/93830). With this post I am going to explore how to play those .ISO files stored on my Synology on my Samsung TV. I will use:
+
+- KODI, a free and open-sourced media center
+- A dedicated machine to run KODI on
+- //A video adapter
+- A shared folder on my [Synology DS218+ NAS](https://www.synology.com/en-us/products/DS218)
+- A [Samsung UE55RU7170 LCD TV, from Digitec](https://www.digitec.ch/de/s1/product/samsung-ue55ru7170-55-4k-lcd-2019-tv-10470155)
 
 Resources: https://www.easefab.com/tutorial/play-iso-files-on-samsung-tv.html
 
@@ -33,3 +39,6 @@ As per the [official HOW-TO for Linux:](https://kodi.wiki/view/HOW-TO:Install_Ko
 //TODO 
 
 ## On a Raspberry Pi
+
+# Mount your movies share
+You can either host all your movies locally on your KODI machine
