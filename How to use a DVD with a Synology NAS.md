@@ -51,7 +51,7 @@ KODI comes with a built-in web server
 
 -that serves content over HTTP. It's disabled by default, due to secuirty considerations.-
 
-To enable, just follow the instructions from their wiki: https://kodi.wiki/view/Webserver#Enabling_the_webserver
+To enable, just follow the [instructions from their wiki](https://kodi.wiki/view/Webserver#Enabling_the_webserver), for the [control settings](https://kodi.wiki/view/Settings/Services/Control):
 
 - "Allow remote control via HTTP": Set to enabled
 - I left the port on 8080, because on Linux these higher-numbered ports are useable without privileges. 
