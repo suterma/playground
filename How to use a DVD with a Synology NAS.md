@@ -55,5 +55,5 @@ To enable, just follow the [instructions from their wiki](https://kodi.wiki/view
 
 - "Allow remote control via HTTP": Set to enabled
 - I left the port on 8080, because on Linux these higher-numbered ports are useable without privileges. 
-- I intentionally removed the given username for basic authentication. I want to give unrestricted access in the internal network.
+- I intentionally did not set a password. I want to give unrestricted access in the internal network.
 
