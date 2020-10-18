@@ -44,3 +44,16 @@ As per the [official HOW-TO for Linux:](https://kodi.wiki/view/HOW-TO:Install_Ko
 
 # Mount your movies share
 You can either host all your movies locally on your KODI machine
+
+# Configure KODI
+## Enabling the web server
+KODI comes with a built-in web server
+
+-that serves content over HTTP. It's disabled by default, due to secuirty considerations.-
+
+To enable, just follow the instructions from their wiki: https://kodi.wiki/view/Webserver#Enabling_the_webserver
+
+- "Allow remote control via HTTP": Set to enabled
+- I left the port on 8080, because on Linux these higher-numbered ports are useable without privileges. 
+- I intentionally removed the given username for basic authentication. I want to give unrestricted access in the internal network.
+
