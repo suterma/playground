@@ -73,3 +73,15 @@ To enable, just follow the [instructions from their wiki](https://kodi.wiki/view
 - I left the port on 8080, because on Linux these higher-numbered ports are useable without privileges. 
 - I intentionally did not set a password. I want to give unrestricted access in the internal network.
 
+## Tweaking performance
+See the post [LAMP stack on Raspberry Pi with Kodi running at startup](https://www.leowkahman.com/2016/03/05/lamp-stack-on-raspberry-pi-with-kodi-running-at-startup/) by Leow Kah Man for more details. I recommend considering the memory split, and disabling the swap file.
+
+## Autostart at boot
+Maybe the simplest approach to this is using the crontab file.
+
+    # Open crontab for the current user
+    crontab -e
+    # Add the following line to start kodi in the standalone mode (suitable for use without a desktop) after boot
+    @reboot kodi --standalone
+
+
