@@ -37,10 +37,15 @@ As per the [official HOW-TO for Linux:](https://kodi.wiki/view/HOW-TO:Install_Ko
     # Install kodi
     sudo apt-get install kodi
 
-
-//TODO 
-
 ## On a Raspberry Pi
+
+As per the [official HOW-TO for Raspbian:](https://kodi.wiki/view/HOW-TO:Install_Kodi_on_Raspberry_Pi#Raspbian)
+    
+    # Get the newest package data
+    sudo apt-get update
+    # Install kodi
+    sudo apt-get install kodi
+
 
 ### HDMI Audio
 See the [configuration page over at raspberrypi.org](https://www.raspberrypi.org/documentation/configuration/audio-config.md). 
