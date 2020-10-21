@@ -42,6 +42,14 @@ As per the [official HOW-TO for Linux:](https://kodi.wiki/view/HOW-TO:Install_Ko
 
 ## On a Raspberry Pi
 
+### HDMI Audio
+See the [configuration page over at raspberrypi.org](https://www.raspberrypi.org/documentation/configuration/audio-config.md). 
+
+    # Open up raspi-config by entering the following into the command line:
+    sudo raspi-config
+
+The safe choice for TV's with built-in audio is "Advanced Options", "Audio", "Force HDMI". You may want to leave it on "Auto", and then change later as necessary.
+
 # Mount your movies share
 You can either host all your movies locally on your KODI machine
 
