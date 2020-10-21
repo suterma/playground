@@ -46,6 +46,9 @@ As per the [official HOW-TO for Raspbian:](https://kodi.wiki/view/HOW-TO:Install
     # Install kodi
     sudo apt-get install kodi
 
+    # Run KODI
+    kodi
+
 
 ### HDMI Audio
 See the [configuration page over at raspberrypi.org](https://www.raspberrypi.org/documentation/configuration/audio-config.md). 
