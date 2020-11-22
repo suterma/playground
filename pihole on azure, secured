@@ -1,0 +1,4 @@
+//TODO
+
+change default dsn name in qrys-pihole to one without a dot 
+try to deploy the arm template qrys-pihole
