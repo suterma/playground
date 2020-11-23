@@ -2,3 +2,6 @@
 
 change default dsn name in qrys-pihole to one without a dot 
 try to deploy the arm template qrys-pihole
+
+Parameters: see
+ARM Template best practices: https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-best-practices
