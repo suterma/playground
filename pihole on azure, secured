@@ -1,4 +1,5 @@
 //TODO
+base: https://dev.to/ganesshkumar/pi-hole-in-azure-container-instances-4abf
 
 change default dsn name in qrys-pihole to one without a dot 
 try to deploy the arm template qrys-pihole
