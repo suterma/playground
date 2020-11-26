@@ -1,6 +1,8 @@
 //TODO
 base: https://dev.to/ganesshkumar/pi-hole-in-azure-container-instances-4abf
 
+See https://blog.eldert.net/retrieve-azure-storage-access-keys-in-arm-template/ about storage keys
+
 change default dsn name in qrys-pihole to one without a dot 
 try to deploy the arm template qrys-pihole
 
