@@ -1,6 +1,11 @@
 This is how I created the pihole in the first place
 base: https://dev.to/ganesshkumar/pi-hole-in-azure-container-instances-4abf
 
+Enable a TLS endpoint in a sidecar container: https://docs.microsoft.com/en-us/azure/container-instances/container-instances-container-group-ssl
+
+
+
+
 Now I struggled with Access keys, but it's now working
 See https://blog.eldert.net/retrieve-azure-storage-access-keys-in-arm-template/ about storage keys
 
