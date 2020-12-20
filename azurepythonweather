@@ -1,0 +1,9 @@
+# A simple Azure weather station project (for learning purposes)
+
+## Install python on a Raspberri Pi zero
+
+## Use the azure IoT SDK to post data
+
+## Use the Azure IoT Hub with EventGrid to route data
+
+## Publish charts tbd
