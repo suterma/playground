@@ -37,3 +37,5 @@ This is about Gen1 only: https://docs.microsoft.com/en-us/azure/time-series-insi
 ## Use the Azure IoT Hub with EventGrid to route data
 
 ## Publish charts tbd
+
+Nodejs client app, with IoTHub: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps
