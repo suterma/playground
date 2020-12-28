@@ -32,16 +32,15 @@ This seems not to work, find resources....
 Is it because of the escapes?
 This is about Gen1 only: https://docs.microsoft.com/en-us/azure/time-series-insights/time-series-insights-send-events#supported-json-shapes
 
-:todo: Continue here
-
-## Use the Azure IoT Hub with EventGrid to route data
-
 ## Publish charts tbd
 
 Nodejs client app, with IoTHub: https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps
 
 ## Deploy from GitHub to Azure Web App
 See https://docs.microsoft.com/en-us/azure/app-service/scripts/cli-deploy-github#sample-script
+
+:todo: Continue here: Results in Status 500 errors
+https://portal.azure.com/#@marcelsuternowhow.onmicrosoft.com/resource/subscriptions/8f55d6a7-1c33-43bd-aa65-cb6de4073a27/resourceGroups/githubdeploydemo/providers/Microsoft.Web/sites/mywebapp28304/appServices
 
     #!/bin/bash
     
