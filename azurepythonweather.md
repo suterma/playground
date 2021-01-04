@@ -1,5 +1,8 @@
 # A simple Azure weather station project (for learning purposes)
 
+## Caching from IoT Hub
+See https://markheath.net/post/sharing-state-between-azure-functions
+
 ## Publish charts tbd
 
 See https://github.com/suterma/web-apps-node-iot-hub-data-visualization
