@@ -2,5 +2,5 @@
 
 https://bulma.io/documentation/overview/start/
 
-    `npm install bulma`
+    npm install bulma
     
